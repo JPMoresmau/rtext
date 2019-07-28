@@ -1,0 +1,1 @@
+Playing with [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) and other text related algorithms in Rust.
